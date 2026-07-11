@@ -2,7 +2,7 @@
 
 The official store of extensions for Spark Studio 18
 
-A repository for hosting and distributing extensions, plugins, and add-ons for the Spark Studio development environment. It is an integral part of the Spark Studio ecosystem, allowing developers to extend the functionality of the IDE and share their work with the community.
+A repository for hosting and distributing extensions and add-ons for the Spark Studio projects. It is an integral part of the Spark Studio ecosystem, allowing developers to extend the functionality of the application and share their work with the community.
 
 ## Review
 
